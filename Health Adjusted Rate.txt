@@ -1,0 +1,17 @@
+﻿"Age group","At birth",,,,,
+"Income group 9 10","All income groups",,,,,
+"Sex","Both sexes",,"Males",,"Females",
+"Characteristics 2 3 4 11 12","Health-adjusted life expectancy",,"Health-adjusted life expectancy",,"Health-adjusted life expectancy",
+"Geography","2010 to 2012","2015 to 2017","2010 to 2012","2015 to 2017","2010 to 2012","2015 to 2017"
+,"Years",,,,,
+"Canada","70.4","69.7","69.4","68.9","71.4","70.4"
+"Newfoundland and Labrador","68.5","66.4","67.1","66.4","69.9","66.3"
+"Prince Edward Island","70.1","70.3","68.2","67.6","71.9","72.5"
+"Nova Scotia","68.2","67.8","66.9","66.1","69.4","69.5"
+"New Brunswick","69.3","67.9","67.4","67.0","71.2","68.9"
+"Quebec","71.5","71.6","70.2","71.2","72.6","72.0"
+"Ontario","70.3","69.5","69.6","68.9","70.9","70.1"
+"Manitoba","68.4","67.2","67.3","66.8","69.5","67.6"
+"Saskatchewan","68.7","67.7","67.4","66.5","70.1","69.0"
+"Alberta","69.3","68.8","68.5","68.4","70.3","69.4"
+"British Columbia","71.5","69.6","70.3","67.9","72.6","71.3"

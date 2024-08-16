@@ -1,0 +1,16 @@
+Period,Proportion of the population where air pollutants were at or below the standards (percentage)
+2005 to 2007,63
+2006 to 2008,65
+2007 to 2009,66
+2008 to 2010,69
+2009 to 2011,67
+2010 to 2012,66
+2011 to 2013,66
+2012 to 2014,66
+2013 to 2015,70
+2014 to 2016,79
+2015 to 2017,78
+2016 to 2018,68
+2017 to 2019,71
+2018 to 2020,64
+2019 to 2021,85

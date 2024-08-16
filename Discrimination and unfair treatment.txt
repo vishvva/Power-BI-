@@ -1,0 +1,13 @@
+﻿"Indicators","Experience(s) of discrimination, 5 years before COVID-19 pandemic 8 9","Experience(s) of discrimination based on ethnicity or culture, 5 years before COVID-19 pandemic 8 9","Experience(s) of discrimination based on race or colour, 5 years before COVID-19 pandemic 8 9","Discrimination at work or when applying for a job or a promotion, 5 years before COVID-19 pandemic 8 9","Experience(s) of discrimination since the beginning of COVID-19 pandemic 8 9","Experience(s) of discrimination based on ethnicity or culture, since the beginning of COVID-19 pandemic 8 9","Experience(s) of discrimination based on race or colour, since the beginning of COVID-19 pandemic 8 9","Discrimination at work or when applying for a job or promotion, since the beginning of COVID-19 pandemic 8 9"
+"Visible minority"
+,"Percent",,,,,,,
+"Total, by visible minority group 10","35.2","10.7","11.8","43.2","15.9","5.0","6.3","24.9"
+"Total – Visible minority 11","50.4","30.2","35.7","45.6","27.1","15.1","19.8","27.6"
+"South Asian 12","47.4","33.5","35.0","52.1","22.5","14.0","16.4","31.4"
+"Chinese","54.3","28.4","37.1","31.2","39.3","24.4","27.5","15.4"
+"Black","57.6","26.9","49.6","55.3","27.6","9.3","25.5","39.7"
+"Filipino","51.7","29.5","38.9","41.1","31.6","16.3","22.8","31.1"
+"Arab","37.0","26.3","15.6","44.8","11.8","6.0","3.9","32.3"
+"Latin American","43.5","29.9","18.0","54.0","15.7","8.1","5.6","F"
+"Southeast Asian 13","39.2","21.4","27.7","41.1","20.9","12.4","14.5","27.0"
+"Not a visible minority 14","30.5","4.2","3.9","43.4","12.3","1.7","1.9","24.9"
